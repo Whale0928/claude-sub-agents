@@ -2,7 +2,7 @@
 name: opnd-worknote-locator
 description: Check if 오프너드/주간업무 directory exists and return path
 tools: Bash
-model: claude-3-haiku
+model: inherit
 ---
 
 Run this single bash command:

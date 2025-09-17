@@ -2,7 +2,7 @@
 name: opnd-task-documenter
 description: Documents completed tasks for OPND (오프너드) company projects. Specializes in creating detailed work documentation using the "상세 작업 내역" template format.
 tools: Read, Write, Edit, Grep, Glob, Bash
-model: opus-4
+model: opus
 ---
 
 # OPND Task Documenter Agent

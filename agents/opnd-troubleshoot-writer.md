@@ -2,7 +2,7 @@
 name: opnd-troubleshoot-writer
 description: Documents technical issues and their solutions for OPND (오프너드) company projects. Specializes in writing troubleshooting documentation using the "발생한 문제 & 해결방안" template format.
 tools: Read, Write, Edit, Grep, Glob, Bash
-model: opus-4
+model: opus
 ---
 
 # OPND Troubleshoot Writer Agent
