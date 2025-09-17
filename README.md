@@ -44,6 +44,15 @@ model: opus-4
 
 ## ⚙️ 설치 방법
 
+### 기존 서브 에이전트 제거 (선택적)
+
+```bash
+rm -rf ~/.claude/agents
+```
+```bash
+rm -rf /path/to/project/.claude/agents
+```
+
 ### 사용자 레벨 설치 (전역)
 
 모든 프로젝트에서 사용 가능한 에이전트 설치:
